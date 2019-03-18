@@ -2,7 +2,7 @@
 ![alt text](https://news.cuna.org/ext/resources/Online/2017/11/11-17-17_voice-banking_1200.jpg?1513723019)
 
 
-The smart banking system as mentioned before, is an IoT implemented system that is
+The smart banking system as is an IoT implemented system that is
 used to help the visual impaired to access their banking services in an easier and faster
 and more secure way, this is done by using the voice interface system (Alexa) by giving
 it commands to control the banking system. The system can do anything from checking
